@@ -1,2 +1,6 @@
 httpx
 numpy
+Flask
+Flask-JSON
+Flask-RenderTemplate
+Flask-Request
